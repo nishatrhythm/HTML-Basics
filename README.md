@@ -1,4 +1,4 @@
-# ICT HTML Basics Tags
+# HTML Basics Tags
 
 ### Bold
 ```html
