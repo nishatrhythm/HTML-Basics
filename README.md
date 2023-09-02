@@ -129,9 +129,11 @@ Visit <a href="https://www.google.com" target="_blank">Google</a> in a new tab.
 
 ### Hyperlink (with a file)
 ```html
-Open <a href="basic_html_code.html">Basic HTML</a> file.
+Open <a href="basic_html_code.html">Basic HTML</a> file. <br>
+Open <a href="images/horse.jpeg">horse</a> image.
 ```
-Open <a href="basic_html_code.html">Basic HTML</a> file.
+Open <a href="basic_html_code.html">Basic HTML</a> file. <br>
+Open <a href="images/horse.jpeg">horse</a> image.
 
 ### Ordered List (Default)
 ```html
