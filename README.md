@@ -348,7 +348,7 @@ Open <a href="images/horse.jpeg">horse</a> image.
   </tr>
   <tr>
     <td>John</td>
-    <td>230001</td>
+    <td>2301</td>
   </tr>
   <tr>
     <td>Cristofer</td>
@@ -363,7 +363,7 @@ Open <a href="images/horse.jpeg">horse</a> image.
   </tr>
   <tr>
     <td>John</td>
-    <td>230001</td>
+    <td>2301</td>
   </tr>
   <tr>
     <td>Cristofer</td>
@@ -380,7 +380,7 @@ Open <a href="images/horse.jpeg">horse</a> image.
   </tr>
   <tr>
     <td>John</td>
-    <td>230001</td>
+    <td>2301</td>
   </tr>
   <tr>
     <td>Cristofer</td>
@@ -395,7 +395,7 @@ Open <a href="images/horse.jpeg">horse</a> image.
   </tr>
   <tr>
     <td>John</td>
-    <td>230001</td>
+    <td>2301</td>
   </tr>
   <tr>
     <td>Cristofer</td>
@@ -412,7 +412,7 @@ Open <a href="images/horse.jpeg">horse</a> image.
   </tr>
   <tr>
     <td>John</td>
-    <td>230001</td>
+    <td>2301</td>
   </tr>
   <tr>
     <td>Cristofer</td>
@@ -427,7 +427,7 @@ Open <a href="images/horse.jpeg">horse</a> image.
   </tr>
   <tr>
     <td>John</td>
-    <td>230001</td>
+    <td>2301</td>
   </tr>
   <tr>
     <td>Cristofer</td>
