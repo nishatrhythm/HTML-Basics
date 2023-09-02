@@ -32,7 +32,7 @@
 <p align="left">Paragraph with left alignment</p>
 <p align="center">Paragraph with center alignment</p>
 <p align="middle">Paragraph with middle alignment</p>
-<p align="right">Paragraph with right alignment</p>>
+<p align="right">Paragraph with right alignment</p>
 
 ### Bold
 ```html
@@ -117,6 +117,12 @@ A mathematical formula is (a + b)<sup>2</sup> = a<sup>2</sup> + 2ab + b<sup>2</s
 <a href="https://www.google.com">Google</a>
 ```
 <a href="https://www.google.com">Google</a>
+
+### Hyperlink (with a file)
+```html
+Open <a href="basic_html_code.html">Basic HTML</a> file.
+```
+Open <a href="basic_html_code.html">Basic HTML</a> file.
 
 ### Ordered List (Default)
 ```html
