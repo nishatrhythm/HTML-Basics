@@ -434,3 +434,99 @@ Open <a href="images/horse.jpeg">horse</a> image.
     <td>230002</td>
   </tr>
 </table>
+
+### Table (with table data alignment)
+```html
+<table border="1" cellspacing="0">
+  <tr>
+    <td align="left">Name</td>
+    <td align="right">Roll</td>
+  </tr>
+  <tr>
+    <td align="right">John</td>
+    <td align="center">2301</td>
+  </tr>
+  <tr>
+    <td>Cristofer</td>
+    <td>230002</td>
+  </tr>
+</table>
+```
+<table border="1" cellspacing="0">
+  <tr>
+    <td align="left">Name</td>
+    <td align="right">Roll</td>
+  </tr>
+  <tr>
+    <td align="right">John</td>
+    <td align="center">2301</td>
+  </tr>
+  <tr>
+    <td>Cristofer</td>
+    <td>230002</td>
+  </tr>
+</table>
+
+### Table (with table row alignment)
+```html
+<table border="1" cellspacing="0">
+  <tr align="center">
+    <td>Name</td>
+    <td>Roll</td>
+  </tr>
+  <tr align="right">
+    <td>John</td>
+    <td>2301</td>
+  </tr>
+  <tr>
+    <td>Cristofer</td>
+    <td>230002</td>
+  </tr>
+</table>
+```
+<table border="1" cellspacing="0">
+  <tr align="center">
+    <td>Name</td>
+    <td>Roll</td>
+  </tr>
+  <tr align="right">
+    <td>John</td>
+    <td>2301</td>
+  </tr>
+  <tr>
+    <td>Cristofer</td>
+    <td>230002</td>
+  </tr>
+</table>
+
+### Table (with table heading row)
+```html
+<table border="1" cellspacing="0">
+  <tr>
+    <th>Name</th>
+    <th>Roll</th>
+  </tr>
+  <tr>
+    <td>John</td>
+    <td>2301</td>
+  </tr>
+  <tr>
+    <td>Cristofer</td>
+    <td>230002</td>
+  </tr>
+</table>
+```
+<table border="1" cellspacing="0">
+  <tr>
+    <th>Name</th>
+    <th>Roll</th>
+  </tr>
+  <tr>
+    <td>John</td>
+    <td>2301</td>
+  </tr>
+  <tr>
+    <td>Cristofer</td>
+    <td>230002</td>
+  </tr>
+</table>
