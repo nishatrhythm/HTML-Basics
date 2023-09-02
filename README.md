@@ -375,8 +375,8 @@ Open <a href="images/horse.jpeg">horse</a> image.
 ```html
 <table border="1">
   <tr>
-    <th>Name</td>
-    <th>Roll</td>
+    <td>Name</td>
+    <td>Roll</td>
   </tr>
   <tr>
     <td>John</td>
@@ -390,8 +390,8 @@ Open <a href="images/horse.jpeg">horse</a> image.
 ```
 <table border="1">
   <tr>
-    <th>Name</td>
-    <th>Roll</td>
+    <td>Name</td>
+    <td>Roll</td>
   </tr>
   <tr>
     <td>John</td>
@@ -407,8 +407,8 @@ Open <a href="images/horse.jpeg">horse</a> image.
 ```html
 <table border="1" cellspacing="0">
   <tr>
-    <th>Name</td>
-    <th>Roll</td>
+    <td>Name</td>
+    <td>Roll</td>
   </tr>
   <tr>
     <td>John</td>
@@ -422,8 +422,8 @@ Open <a href="images/horse.jpeg">horse</a> image.
 ```
 <table border="1" cellspacing="0">
   <tr>
-    <th>Name</td>
-    <th>Roll</td>
+    <td>Name</td>
+    <td>Roll</td>
   </tr>
   <tr>
     <td>John</td>
