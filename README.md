@@ -638,3 +638,9 @@ Open <a href="images/horse.jpeg">horse</a> image.
   <img src="images/Screenshot_5.png"width="500">
 </figure>
 <i><b>Hint:</b> Use colspan, rowspan and ordered list. Click <a href="42.html">here</a> to get the answer.</i>
+
+### Complex Table 6
+<figure>
+  <img src="images/Screenshot_6.png"width="500">
+</figure>
+<i><b>Hint:</b> Try yourself! Click <a href="50.html">here</a> to get the answer.</i>
