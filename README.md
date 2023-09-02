@@ -1,5 +1,21 @@
 # HTML Basic Tags
 
+### Basic HTML Format
+```html
+<!DOCTYPE html>
+<html>
+  <body>
+    Hello world!
+  </body>
+</html>
+```
+<!DOCTYPE html>
+<html>
+  <body>
+    Hello world!
+  </body>
+</html>
+
 ### Bold
 ```html
 This text is <b>Bold</b>
