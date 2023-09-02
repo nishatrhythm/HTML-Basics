@@ -122,9 +122,10 @@ Visit <a href="https://www.google.com">Google</a>
 
 ### Hyperlink (open in a new page or tab)
 ```html
-Visit <a href="https://www.google.com" target="_blank">Google</a>
+Visit <a href="https://www.google.com" target="_blank">Google</a> in a new tab.
 ```
-Visit <a href="https://www.google.com" target="_new">Google</a>
+Visit <a href="https://www.google.com" target="_blank">Google</a> in a new tab.
+<br><br><i>**Note:** GitHub doesn't support new tab link opening as of now. But HTML editors will work fine.</i>
 
 ### Hyperlink (with a file)
 ```html
