@@ -1,14 +1,19 @@
-# ICT HTML Basics
+# ICT HTML Basics Tags
 
-### Bold Tag
- ```html
+### Bold
+```html
 This text is <b>Bold</b>
 ```
 This text is **Bold**
 
-
-### Italic Tag
- ```html
+### Italic
+```html
 This text is <i>Italic</i>
 ```
 This text is _Italic_
+
+### Underline
+```html
+This text is <u>Underlined</u>
+```
+This text is <ins>Underlined</ins>
