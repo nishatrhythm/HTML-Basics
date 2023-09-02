@@ -131,3 +131,83 @@ This text is <del>deleted</del>
   <li>Orange</li>
   <li>Guava</li>
 </ol>
+
+### Unordered List (Default)
+```html
+<ul>
+  <li>Banana</li>
+  <li>Apple</li>
+  <li>Mango</li>
+  <li>Lichi</li>
+  <li>Orange</li>
+  <li>Guava</li>
+</ol>
+```
+<ul>
+  <li>Banana</li>
+  <li>Apple</li>
+  <li>Mango</li>
+  <li>Lichi</li>
+  <li>Orange</li>
+  <li>Guava</li>
+</ul>
+
+### Unordered List (Circle)
+```html
+<ul type="circle">
+  <li>Banana</li>
+  <li>Apple</li>
+  <li>Mango</li>
+  <li>Lichi</li>
+  <li>Orange</li>
+  <li>Guava</li>
+</ol>
+```
+<ul type="circle">
+  <li>Banana</li>
+  <li>Apple</li>
+  <li>Mango</li>
+  <li>Lichi</li>
+  <li>Orange</li>
+  <li>Guava</li>
+</ul>
+
+### Unordered List (Square)
+```html
+<ul type="square">
+  <li>Banana</li>
+  <li>Apple</li>
+  <li>Mango</li>
+  <li>Lichi</li>
+  <li>Orange</li>
+  <li>Guava</li>
+</ol>
+```
+<ul type="square">
+  <li>Banana</li>
+  <li>Apple</li>
+  <li>Mango</li>
+  <li>Lichi</li>
+  <li>Orange</li>
+  <li>Guava</li>
+</ul>
+
+### Unordered List (Disk)
+```html
+<ul type="disk">
+  <li>Banana</li>
+  <li>Apple</li>
+  <li>Mango</li>
+  <li>Lichi</li>
+  <li>Orange</li>
+  <li>Guava</li>
+</ol>
+```
+<ul type="disk">
+  <li>Banana</li>
+  <li>Apple</li>
+  <li>Mango</li>
+  <li>Lichi</li>
+  <li>Orange</li>
+  <li>Guava</li>
+</ul>
