@@ -91,3 +91,43 @@ This text is <del>deleted</del>
   <li>Orange</li>
   <li>Guava</li>
 </ol>
+
+### Ordered List (Roman Number)
+```html
+<ol type="i">
+  <li>Banana</li>
+  <li>Apple</li>
+  <li>Mango</li>
+  <li>Lichi</li>
+  <li>Orange</li>
+  <li>Guava</li>
+</ol>
+```
+<ol type="i">
+  <li>Banana</li>
+  <li>Apple</li>
+  <li>Mango</li>
+  <li>Lichi</li>
+  <li>Orange</li>
+  <li>Guava</li>
+</ol>
+
+### Ordered List (start from specific number)
+```html
+<ol type="1" start="13">
+  <li>Banana</li>
+  <li>Apple</li>
+  <li>Mango</li>
+  <li>Lichi</li>
+  <li>Orange</li>
+  <li>Guava</li>
+</ol>
+```
+<ol type="1" start="13">
+  <li>Banana</li>
+  <li>Apple</li>
+  <li>Mango</li>
+  <li>Lichi</li>
+  <li>Orange</li>
+  <li>Guava</li>
+</ol>
