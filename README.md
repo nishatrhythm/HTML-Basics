@@ -18,11 +18,17 @@ This text is <u>Underlined</u>
 ```
 This text is <ins>Underlined</ins>
 
+### Line Break
+```html
+There is <br>three </br>lines
+```
+There is <br>three </br>lines
+
 ### Strong
 ```html
-This text is <strong>Underlined</strong>
+This text is <strong>strong</strong>
 ```
-This text is <strong>Underlined</strong>
+This text is <strong>strong</strong>
 
 ### Emphasize
 ```html
