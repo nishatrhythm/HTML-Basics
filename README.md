@@ -16,11 +16,23 @@
   </body>
 </html>
 
-### Paragraph
+### Paragraph (Default)
 ```html
 <p>This is a paragraph</p>
 ```
 <p>This is a paragraph</p>
+
+### Paragraph (with alignment attributes)
+```html
+<p align="left">Paragraph with left alignment</p>
+<p align="center">Paragraph with center alignment</p>
+<p align="middle">Paragraph with middle alignment</p>
+<p align="right">Paragraph with right alignment</p>
+```
+<p align="left">Paragraph with left alignment</p>
+<p align="center">Paragraph with center alignment</p>
+<p align="middle">Paragraph with middle alignment</p>
+<p align="right">Paragraph with right alignment</p>>
 
 ### Bold
 ```html
@@ -99,6 +111,12 @@ A mathematical formula is (a + b)<sup>2</sup> = a<sup>2</sup> + 2ab + b<sup>2</s
 <h4>This is h4 heading</h4>
 <h5>This is h5 heading</h5>
 <h6>This is h6 heading</h6>
+
+### Hyperlink (with website)
+```html
+<a href="https://www.google.com">Google</a>
+```
+<a href="https://www.google.com">Google</a>
 
 ### Ordered List (Default)
 ```html
