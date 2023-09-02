@@ -51,3 +51,43 @@ This text is <del>deleted</del>
 <h4>This is h4 heading</h4>
 <h5>This is h5 heading</h5>
 <h6>This is h6 heading</h6>
+
+### Ordered List (Default)
+```html
+<ol>
+  <li>Banana</li>
+  <li>Apple</li>
+  <li>Mango</li>
+  <li>Lichi</li>
+  <li>Orange</li>
+  <li>Guava</li>
+</ol>
+```
+<ol>
+  <li>Banana</li>
+  <li>Apple</li>
+  <li>Mango</li>
+  <li>Lichi</li>
+  <li>Orange</li>
+  <li>Guava</li>
+</ol>
+
+### Ordered List (with attribute)
+```html
+<ol type="A">
+  <li>Banana</li>
+  <li>Apple</li>
+  <li>Mango</li>
+  <li>Lichi</li>
+  <li>Orange</li>
+  <li>Guava</li>
+</ol>
+```
+<ol type="A">
+  <li>Banana</li>
+  <li>Apple</li>
+  <li>Mango</li>
+  <li>Lichi</li>
+  <li>Orange</li>
+  <li>Guava</li>
+</ol>
