@@ -338,3 +338,99 @@ Open <a href="images/horse.jpeg">horse</a> image.
   <li>Rice</li>
   <li>Oil</li>
 </ul>
+
+### Table (Default)
+```html
+<table>
+  <tr>
+    <td>Name</td>
+    <td>Roll</td>
+  </tr>
+  <tr>
+    <td>John</td>
+    <td>230001</td>
+  </tr>
+  <tr>
+    <td>Cristofer</td>
+    <td>230002</td>
+  </tr>
+</table>
+```
+<table>
+  <tr>
+    <td>Name</td>
+    <td>Roll</td>
+  </tr>
+  <tr>
+    <td>John</td>
+    <td>230001</td>
+  </tr>
+  <tr>
+    <td>Cristofer</td>
+    <td>230002</td>
+  </tr>
+</table>
+
+### Table (with double table border)
+```html
+<table border="1">
+  <tr>
+    <th>Name</td>
+    <th>Roll</td>
+  </tr>
+  <tr>
+    <td>John</td>
+    <td>230001</td>
+  </tr>
+  <tr>
+    <td>Cristofer</td>
+    <td>230002</td>
+  </tr>
+</table>
+```
+<table border="1">
+  <tr>
+    <th>Name</td>
+    <th>Roll</td>
+  </tr>
+  <tr>
+    <td>John</td>
+    <td>230001</td>
+  </tr>
+  <tr>
+    <td>Cristofer</td>
+    <td>230002</td>
+  </tr>
+</table>
+
+### Table (with single table border)
+```html
+<table border="1" cellspacing="0">
+  <tr>
+    <th>Name</td>
+    <th>Roll</td>
+  </tr>
+  <tr>
+    <td>John</td>
+    <td>230001</td>
+  </tr>
+  <tr>
+    <td>Cristofer</td>
+    <td>230002</td>
+  </tr>
+</table>
+```
+<table border="1" cellspacing="0">
+  <tr>
+    <th>Name</td>
+    <th>Roll</td>
+  </tr>
+  <tr>
+    <td>John</td>
+    <td>230001</td>
+  </tr>
+  <tr>
+    <td>Cristofer</td>
+    <td>230002</td>
+  </tr>
+</table>
