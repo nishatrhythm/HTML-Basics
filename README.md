@@ -614,3 +614,27 @@ Open <a href="images/horse.jpeg">horse</a> image.
   <img src="images/Screenshot_1.png"width="500">
 </figure>
 <i><b>Hint:</b> Use colspan, rowspan, hyperlink, image and line break tags. Click <a href="39.html">here</a> to get the answer.</i>
+
+### Complex Table 2
+<figure>
+  <img src="images/Screenshot_2.png"width="500">
+</figure>
+<i><b>Hint:</b> Use colspan, rowspan and table data alignments. Click <a href="44.html">here</a> to get the answer.</i>
+
+### Complex Table 3
+<figure>
+  <img src="images/Screenshot_3.png"width="500">
+</figure>
+<i><b>Hint:</b> Use colspan, rowspan and vertical alignment. Click <a href="valign.html">here</a> to get the answer.</i>
+
+### Complex Table 4
+<figure>
+  <img src="images/Screenshot_4.png"width="500">
+</figure>
+<i><b>Hint:</b> Use colspan, rowspan and table data alignment. Click <a href="46.html">here</a> to get the answer.</i>
+
+### Complex Table 5
+<figure>
+  <img src="images/Screenshot_5.png"width="500">
+</figure>
+<i><b>Hint:</b> Use colspan, rowspan and ordered list. Click <a href="42.html">here</a> to get the answer.</i>
