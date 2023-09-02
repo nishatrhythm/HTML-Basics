@@ -60,9 +60,9 @@ This text is <del>deleted</del>
 
 ### Line Break
 ```html
-There is <br>three </br>lines
+There are <br>three </br>lines
 ```
-There is <br>three </br>lines
+There are <br>three </br>lines
 
 ### Horizontal Line
 ```html
