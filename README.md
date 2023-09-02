@@ -292,3 +292,29 @@ Open <a href="basic_html_code.html">Basic HTML</a> file.
   <li>Orange</li>
   <li>Guava</li>
 </ul>
+
+### Nested Ordered and Unordered List
+```html
+<ul type="disk">
+  <li>Fruits</li>
+    <ol type="i">
+      <li>Banana</li>
+      <li>Apple</li>
+      <li>Mango</li>
+    </ol>
+  <li>Vegetables</li>
+  <li>Rice</li>
+  <li>Oil</li>
+</ul>
+```
+<ul type="disk">
+  <li>Fruits</li>
+    <ol type="i">
+      <li>Banana</li>
+      <li>Apple</li>
+      <li>Mango</li>
+    </ol>
+  <li>Vegetables</li>
+  <li>Rice</li>
+  <li>Oil</li>
+</ul>
