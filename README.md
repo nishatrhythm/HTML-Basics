@@ -16,6 +16,12 @@
   </body>
 </html>
 
+### Paragraph
+```html
+<p>This is a paragraph</p>
+```
+<p>This is a paragraph</p>
+
 ### Bold
 ```html
 This text is <b>Bold</b>
@@ -34,12 +40,6 @@ This text is <u>Underlined</u>
 ```
 This text is <ins>Underlined</ins>
 
-### Line Break
-```html
-There is <br>three </br>lines
-```
-There is <br>three </br>lines
-
 ### Strong
 ```html
 This text is <strong>strong</strong>
@@ -57,6 +57,32 @@ This text is <em>emphasized</em>
 This text is <del>deleted</del>
 ```
 This text is <del>deleted</del>
+
+### Line Break
+```html
+There is <br>three </br>lines
+```
+There is <br>three </br>lines
+
+### Horizontal Line
+```html
+There is a horizontal line under this paragraph. <hr>
+There is a horizontal line above this paragraph.
+```
+There is a horizontal line under this paragraph. <hr>
+There is a horizontal line above this paragraph.
+
+### Subscript
+```html
+Chemical formula of water H<sub>2</sub>O
+```
+Chemical formula of water is H<sub>2</sub>O
+
+### Superscript
+```html
+A mathematical formula is (a + b)<sup>2</sup> = a<sup>2</sup> + 2ab + b<sup>2</sup>
+```
+A mathematical formula is (a + b)<sup>2</sup> = a<sup>2</sup> + 2ab + b<sup>2</sup>
 
 ### Heading
 ```html
