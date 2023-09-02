@@ -351,7 +351,7 @@ Open <a href="images/horse.jpeg">horse</a> image.
     <td>2301</td>
   </tr>
   <tr>
-    <td>Cristofer</td>
+    <td>Christopher</td>
     <td>230002</td>
   </tr>
 </table>
@@ -366,7 +366,7 @@ Open <a href="images/horse.jpeg">horse</a> image.
     <td>2301</td>
   </tr>
   <tr>
-    <td>Cristofer</td>
+    <td>Christopher</td>
     <td>230002</td>
   </tr>
 </table>
@@ -383,7 +383,7 @@ Open <a href="images/horse.jpeg">horse</a> image.
     <td>2301</td>
   </tr>
   <tr>
-    <td>Cristofer</td>
+    <td>Christopher</td>
     <td>230002</td>
   </tr>
 </table>
@@ -398,7 +398,7 @@ Open <a href="images/horse.jpeg">horse</a> image.
     <td>2301</td>
   </tr>
   <tr>
-    <td>Cristofer</td>
+    <td>Christopher</td>
     <td>230002</td>
   </tr>
 </table>
@@ -415,7 +415,7 @@ Open <a href="images/horse.jpeg">horse</a> image.
     <td>2301</td>
   </tr>
   <tr>
-    <td>Cristofer</td>
+    <td>Christopher</td>
     <td>230002</td>
   </tr>
 </table>
@@ -430,7 +430,7 @@ Open <a href="images/horse.jpeg">horse</a> image.
     <td>2301</td>
   </tr>
   <tr>
-    <td>Cristofer</td>
+    <td>Christopher</td>
     <td>230002</td>
   </tr>
 </table>
@@ -447,7 +447,7 @@ Open <a href="images/horse.jpeg">horse</a> image.
     <td align="center">2301</td>
   </tr>
   <tr>
-    <td>Cristofer</td>
+    <td>Christopher</td>
     <td>230002</td>
   </tr>
 </table>
@@ -462,7 +462,7 @@ Open <a href="images/horse.jpeg">horse</a> image.
     <td align="center">2301</td>
   </tr>
   <tr>
-    <td>Cristofer</td>
+    <td>Christopher</td>
     <td>230002</td>
   </tr>
 </table>
@@ -479,7 +479,7 @@ Open <a href="images/horse.jpeg">horse</a> image.
     <td>2301</td>
   </tr>
   <tr>
-    <td>Cristofer</td>
+    <td>Christopher</td>
     <td>230002</td>
   </tr>
 </table>
@@ -494,7 +494,7 @@ Open <a href="images/horse.jpeg">horse</a> image.
     <td>2301</td>
   </tr>
   <tr>
-    <td>Cristofer</td>
+    <td>Christopher</td>
     <td>230002</td>
   </tr>
 </table>
@@ -511,7 +511,7 @@ Open <a href="images/horse.jpeg">horse</a> image.
     <td>2301</td>
   </tr>
   <tr>
-    <td>Cristofer</td>
+    <td>Christopher</td>
     <td>230002</td>
   </tr>
 </table>
@@ -526,7 +526,79 @@ Open <a href="images/horse.jpeg">horse</a> image.
     <td>2301</td>
   </tr>
   <tr>
-    <td>Cristofer</td>
+    <td>Christopher</td>
+    <td>230002</td>
+  </tr>
+</table>
+
+### Table (Rowspan)
+```html
+<table border="1" cellspacing="0">
+  <tr>
+    <th>Name</th>
+    <th>Batch</th>
+    <th>Roll</th>
+  </tr>
+  <tr>
+    <td>John</td>
+    <td rowspan="2">23</td>
+    <td>2301</td>
+  </tr>
+  <tr>
+    <td>Christopher</td>
+    <td>230002</td>
+  </tr>
+</table>
+```
+<table border="1" cellspacing="0">
+  <tr>
+    <th>Name</th>
+    <th>Batch</th>
+    <th>Roll</th>
+  </tr>
+  <tr>
+    <td>John</td>
+    <td rowspan="2">23</td>
+    <td>2301</td>
+  </tr>
+  <tr>
+    <td>Christopher</td>
+    <td>230002</td>
+  </tr>
+</table>
+
+### Table (Colspan)
+```html
+<table border="1" cellspacing="0">
+  <tr>
+    <th colspan="2">First Name & Last Name</th>
+    <th>Roll</th>
+  </tr>
+  <tr>
+    <td>John</td>
+    <td>Richard</td>
+    <td>2301</td>
+  </tr>
+  <tr>
+    <td>Christopher</td>
+    <td>Tyler</td>
+    <td>230002</td>
+  </tr>
+</table>
+```
+<table border="1" cellspacing="0">
+  <tr>
+    <th colspan="2">First Name & Last Name</th>
+    <th>Roll</th>
+  </tr>
+  <tr>
+    <td>John</td>
+    <td>Richard</td>
+    <td>2301</td>
+  </tr>
+  <tr>
+    <td>Christopher</td>
+    <td>Tyler</td>
     <td>230002</td>
   </tr>
 </table>
