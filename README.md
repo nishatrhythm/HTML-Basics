@@ -28,11 +28,13 @@
 <p align="center">Paragraph with center alignment</p>
 <p align="middle">Paragraph with middle alignment</p>
 <p align="right">Paragraph with right alignment</p>
+<p align="justify">Paragraph with justified alignment</p>
 ```
 <p align="left">Paragraph with left alignment</p>
 <p align="center">Paragraph with center alignment</p>
 <p align="middle">Paragraph with middle alignment</p>
 <p align="right">Paragraph with right alignment</p>
+<p align="justify">Paragraph with justified alignment</p>
 
 ### Bold
 ```html
@@ -122,7 +124,7 @@ Visit <a href="https://www.google.com">Google</a>
 ```html
 Visit <a href="https://www.google.com" target="_blank">Google</a>
 ```
-Visit <a href="https://www.google.com" target="_blank">Google</a>
+Visit <a href="https://www.google.com" target="_new">Google</a>
 
 ### Hyperlink (with a file)
 ```html
