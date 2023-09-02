@@ -1,4 +1,4 @@
-# HTML Basics Tags
+# HTML Basic Tags
 
 ### Bold
 ```html
