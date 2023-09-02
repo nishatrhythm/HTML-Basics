@@ -114,9 +114,15 @@ A mathematical formula is (a + b)<sup>2</sup> = a<sup>2</sup> + 2ab + b<sup>2</s
 
 ### Hyperlink (with website)
 ```html
-<a href="https://www.google.com">Google</a>
+Visit <a href="https://www.google.com">Google</a>
 ```
-<a href="https://www.google.com">Google</a>
+Visit <a href="https://www.google.com">Google</a>
+
+### Hyperlink (open in a new page or tab)
+```html
+Visit <a href="https://www.google.com" target="_blank">Google</a>
+```
+Visit <a href="https://www.google.com" target="_blank">Google</a>
 
 ### Hyperlink (with a file)
 ```html
