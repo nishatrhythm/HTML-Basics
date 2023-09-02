@@ -114,6 +114,24 @@ A mathematical formula is (a + b)<sup>2</sup> = a<sup>2</sup> + 2ab + b<sup>2</s
 <h5>This is h5 heading</h5>
 <h6>This is h6 heading</h6>
 
+### Image (Default)
+```html
+<img src="waterlilly.jpg">
+```
+<img src="images/waterlilly.jpg">
+
+### Image (with width and height)
+```html
+<img src="waterlilly.jpg" width="150" height="100">
+```
+<img src="images/waterlilly.jpg" width="150" height="100">
+
+### Image (with alternative text, if image is missing)
+```html
+<img src="waterlilly.jpg" alt="An image of a Waterlily">
+```
+<img src="waterlillly.jpg" alt="An image of a Waterlily">
+
 ### Hyperlink (with website)
 ```html
 Visit <a href="https://www.google.com">Google</a>
