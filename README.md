@@ -74,7 +74,7 @@ There is a horizontal line above this paragraph.
 
 ### Subscript
 ```html
-Chemical formula of water H<sub>2</sub>O
+Chemical formula of water is H<sub>2</sub>O
 ```
 Chemical formula of water is H<sub>2</sub>O
 
