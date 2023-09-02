@@ -242,7 +242,7 @@ Open <a href="images/horse.jpeg">horse</a> image.
   <li>Lichi</li>
   <li>Orange</li>
   <li>Guava</li>
-</ol>
+</ul>
 ```
 <ul>
   <li>Banana</li>
@@ -262,7 +262,7 @@ Open <a href="images/horse.jpeg">horse</a> image.
   <li>Lichi</li>
   <li>Orange</li>
   <li>Guava</li>
-</ol>
+</ul>
 ```
 <ul type="circle">
   <li>Banana</li>
@@ -282,7 +282,7 @@ Open <a href="images/horse.jpeg">horse</a> image.
   <li>Lichi</li>
   <li>Orange</li>
   <li>Guava</li>
-</ol>
+</ul>
 ```
 <ul type="square">
   <li>Banana</li>
@@ -302,7 +302,7 @@ Open <a href="images/horse.jpeg">horse</a> image.
   <li>Lichi</li>
   <li>Orange</li>
   <li>Guava</li>
-</ol>
+</ul>
 ```
 <ul type="disk">
   <li>Banana</li>
