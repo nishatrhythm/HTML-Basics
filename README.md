@@ -339,6 +339,9 @@ Open <a href="images/horse.jpeg">horse</a> image.
   <li>Oil</li>
 </ul>
 
+<br><br><br>
+# Table
+
 ### Table (Default)
 ```html
 <table>
@@ -602,3 +605,12 @@ Open <a href="images/horse.jpeg">horse</a> image.
     <td>230002</td>
   </tr>
 </table>
+
+<br><br><br>
+# Examples
+
+### Complex Table 1
+<figure>
+  <img src="images/Screenshot_1.png"width="500">
+</figure>
+<i><b>Hint:</b> Use colspan, rowspan, hyperlink, image and line break tags. Click <a href="39.html">here</a> to get the answer.</i>
